@@ -1,0 +1,28 @@
+ invoice_number |  upload  |  status  |                                                                         error                                                                          
+----------------+----------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ OBS-2611-001   | 18:44:08 | Accepted | []
+ OBS-2611-001   | 18:44:38 | Rejected | [{"row": 2, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-001' already exists for this seller with status 'Val
+ OBS-2611-001   | 18:45:08 | Rejected | [{"row": 2, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-001' already exists for this seller with status 'Val
+ OBS-2611-002   | 18:44:08 | Rejected | [{"row": 77, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-002' already exists for this seller with status 'Pa
+ OBS-2611-002   | 18:44:38 | Rejected | [{"row": 77, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-002' already exists for this seller with status 'Pa
+ OBS-2611-002   | 18:45:08 | Accepted | []
+ OBS-2611-003   | 18:44:08 | Rejected | [{"row": 152, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-003' already exists for this seller with status 'P
+ OBS-2611-003   | 18:44:38 | Rejected | [{"row": 152, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-003' already exists for this seller with status 'P
+ OBS-2611-003   | 18:45:08 | Accepted | []
+ OBS-2611-004   | 18:44:08 | Rejected | [{"row": 227, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-004' already exists for this seller with status 'P
+ OBS-2611-004   | 18:44:38 | Rejected | [{"row": 227, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-004' already exists for this seller with status 'P
+ OBS-2611-004   | 18:45:08 | Accepted | []
+ OBS-2611-005   | 18:44:08 | Rejected | [{"row": 302, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-005' already exists for this seller with status 'P
+ OBS-2611-005   | 18:44:38 | Rejected | [{"row": 302, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-005' already exists for this seller with status 'P
+ OBS-2611-005   | 18:45:08 | Accepted | []
+ OBS-2611-006   | 18:44:08 | Rejected | [{"row": 377, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-006' already exists for this seller with status 'P
+ OBS-2611-006   | 18:44:38 | Rejected | [{"row": 377, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-006' already exists for this seller with status 'P
+ OBS-2611-006   | 18:45:08 | Accepted | []
+ OBS-2611-007   | 18:44:08 | Rejected | [{"row": 452, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-007' already exists for this seller with status 'P
+ OBS-2611-007   | 18:44:38 | Rejected | [{"row": 452, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-007' already exists for this seller with status 'P
+ OBS-2611-007   | 18:45:08 | Accepted | []
+ OBS-2611-008   | 18:44:08 | Rejected | [{"row": 527, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-008' already exists for this seller with status 'P
+ OBS-2611-008   | 18:44:38 | Rejected | [{"row": 527, "rule": "AE-BR-09", "field": "Invoice number*", "message": "Document number 'OBS-2611-008' already exists for this seller with status 'P
+ OBS-2611-008   | 18:45:08 | Accepted | []
+(24 rows)
+

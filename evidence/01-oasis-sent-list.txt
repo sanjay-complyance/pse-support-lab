@@ -1,0 +1,25 @@
+== DATABASE (portal view), seller 2 Oasis, Accepted/in-flight invoices ==
+ invoice_number |  status  |            asp_message_id            | uploaded_dubai | updated_dubai 
+----------------+----------+--------------------------------------+----------------+---------------
+ OBS-2611-001   | Accepted | 03b4746d-b4f7-41d5-83f2-687ef59771a8 | 22:44:08       | 22:46:08
+ OBS-2611-002   | Accepted | e52ec6af-1e42-41e2-882a-4db4bd23ed2a | 22:45:08       | 22:47:08
+ OBS-2611-003   | Accepted | 52fb2a88-13b3-4c2a-a744-62f25851863a | 22:45:08       | 22:47:08
+ OBS-2611-004   | Accepted | dd139e6d-f13d-4065-9576-49d23603c592 | 22:45:08       | 22:47:08
+ OBS-2611-005   | Accepted | 9ce96746-bf98-47fa-9b64-7b48278da426 | 22:45:08       | 22:47:08
+ OBS-2611-006   | Accepted | b714ed71-88ec-4c2c-8a90-1a51e95fd5d3 | 22:45:08       | 22:47:08
+ OBS-2611-007   | Accepted | 127440ff-e3f9-4a43-9aec-ec1b49dc6475 | 22:45:08       | 22:47:08
+ OBS-2611-008   | Accepted | 3e07176d-4380-4e56-a97b-d58563b43621 | 22:45:08       | 22:47:08
+(8 rows)
+
+
+== ASP RECORDS (sender 0235:1003182746) ==
+invoice        messageId                              status    receivedAt (UTC)
+OBS-2611-001   03b4746d-b4f7-41d5-83f2-687ef59771a8   accepted  2026-11-13T18:46:08
+OBS-2611-002   e52ec6af-1e42-41e2-882a-4db4bd23ed2a   accepted  2026-11-13T18:47:08
+OBS-2611-003   52fb2a88-13b3-4c2a-a744-62f25851863a   accepted  2026-11-13T18:47:08
+OBS-2611-004   dd139e6d-f13d-4065-9576-49d23603c592   accepted  2026-11-13T18:47:08
+OBS-2611-005   9ce96746-bf98-47fa-9b64-7b48278da426   accepted  2026-11-13T18:47:08
+OBS-2611-006   b714ed71-88ec-4c2c-8a90-1a51e95fd5d3   accepted  2026-11-13T18:47:08
+OBS-2611-007   127440ff-e3f9-4a43-9aec-ec1b49dc6475   accepted  2026-11-13T18:47:08
+OBS-2611-008   3e07176d-4380-4e56-a97b-d58563b43621   accepted  2026-11-13T18:47:08
+total received: 8

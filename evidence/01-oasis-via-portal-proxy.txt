@@ -1,0 +1,7 @@
+{"error":"Gateway Timeout"}
+http=504 time=60.008550s
+   - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 86ms
+{"ts":"2026-11-13T18:48:51.477Z","msg":"proxy","level":"error","method":"POST","path":"/imports","status":504,"durationMs":59999,"error":"TimeoutError: The operation was aborted due to timeout"}
