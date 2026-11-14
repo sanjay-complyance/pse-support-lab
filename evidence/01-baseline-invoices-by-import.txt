@@ -1,0 +1,10 @@
+              import_id               |             name              |            filename            |  status   | count 
+--------------------------------------+-------------------------------+--------------------------------+-----------+-------
+ 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a03 | Al Noor Fuel & Lubricants LLC | al-noor-fuel-oct-2026.xlsx     | Completed |     4
+ 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a01 | Desert Rose Trading LLC       | desert-rose-oct-2026.xlsx      | Completed |     6
+ bce820d9-2600-433d-8c71-df603446e89b | Desert Rose Trading LLC       | desert-rose-nov-2026.xlsx      | Completed |     5
+ 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a02 | Oasis Builders Supply LLC     | oasis-builders-oct-2026.xlsx   | Completed |     8
+ 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a05 | Palm Coast Electronics LLC    | palm-coast-oct-wk4.xlsx        | Completed |     5
+ 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a04 | Sahara Medical Supplies FZE   | sahara-medical-batch-1029.xlsx | Completed |    12
+(6 rows)
+

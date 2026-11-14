@@ -1,0 +1,5 @@
+  status  | count 
+----------+-------
+ Accepted |    40
+(1 row)
+

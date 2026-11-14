@@ -1,0 +1,9 @@
+           filename           |  status   | started  | inv_status | count 
+------------------------------+-----------+----------+------------+-------
+ oasis-builders-nov-2026.xlsx | Completed | 18:44:08 | Accepted   |     1
+ oasis-builders-nov-2026.xlsx | Completed | 18:44:08 | Rejected   |     7
+ oasis-builders-nov-2026.xlsx | Completed | 18:44:38 | Rejected   |     8
+ oasis-builders-nov-2026.xlsx | Completed | 18:45:08 | Accepted   |     7
+ oasis-builders-nov-2026.xlsx | Completed | 18:45:08 | Rejected   |     1
+(5 rows)
+
